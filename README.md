@@ -1,2 +1,2 @@
 # palautusrepositorio
-Full stack -websovelluskehityskurssin tehtävien palautukset
+Full stack websovelluskehitys -kurssin tehtävien palautukset
